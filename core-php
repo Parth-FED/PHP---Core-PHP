@@ -1,0 +1,48 @@
+<?PHP
+// 1>> how to insert a new item in an array on any position in PHP ? 
+// ==>  array_splice() function
+
+// 2>> how to append one array to another in PHP ?
+// ==>  array_merge()
+
+// 3>> How to delete an Element from an array in PHP ?
+// ==> array_pop()
+
+// 4>> How to print all the values of an array in PHP ?
+// ==> var_dump() ,print(), print_r()
+
+// 5>> How to perform array delet by value not key in PHP ?
+// ==> array_diff() 
+
+// 6>> How to remove Array element and do re-indexing in PHP ?
+// ==>  1.use unset() function which removes the element 
+//      2.use array_values() function which indexes the array 
+
+// 7>> How to count all array elements in php ?
+// ==>  array_count_values(), count()
+
+// 8>> How to insert an item at the biginning of an array in PHP?
+// ==> array_unshift(),
+
+// 9>> How to check if two arrays contain the same elements ?
+// ==> array_intersect()
+
+// 10>> How to marge two array contain the same element ?
+// ===> array_merge()
+
+// 11>> How to find the meximum and the minimum in a PHP array ?
+// ===> mex, min
+
+// 12>> How to check a key Exists in an array in PHP ?
+// ===> array_key_exists()
+
+// 13>> How to find the second most frequent element in a PHP array ?
+// ===> array_keys, array_count_values() 
+
+// 14>> How to sort an array of objects by object fields in PHP ?
+// ===> usort() function
+
+// 15>> How to sort an array of strings in natural and standard orders?
+// ===>
+
+?>
